@@ -1,0 +1,50 @@
+add|1|AI Journal|Neural Networks|Alice Johnson
+add|2|CS Review|Sorting Algorithms|Bob Smith
+add|3|BioMed|Genome Sequencing|Carol Lee
+add|4|Math Annals|Number Theory|David Brown
+add|5|Physics Today|Quantum Mechanics|Emily Davis
+add|6|Economics Quarterly|Market Analysis|Frank Wilson
+add|7|AI Journal|Deep Learning|Grace Martin
+add|8|CS Review|Hashing Techniques|Henry Clark
+add|9|BioMed|Protein Folding|Ivy Baker
+add|10|Math Annals|Topology|Jack Turner
+add|11|Physics Today|Thermodynamics|Karen Evans
+add|12|Economics Quarterly|Risk Management|Leo Young
+add|13|Journal of Chemistry|Molecular Bonds|Mia Collins
+add|14|AstroPhysics Letters|Galaxy Formation|Nathan Moore
+add|15|CS Advances|Graph Algorithms|Olivia Scott
+add|16|AI Journal|NLP Techniques|Paul Reed
+add|17|BioMed|Cellular Pathways|Quinn Hughes
+add|18|Math Annals|Abstract Algebra|Rachel Price
+add|19|Physics Today|Optics|Sam White
+add|20|Economics Quarterly|Supply Chain|Tina Murphy
+add|21|Journal of Chemistry|Catalysis Methods|Uma Perry
+add|22|AstroPhysics Letters|Exoplanet Studies|Victor Brooks
+add|23|CS Advances|Distributed Systems|Wendy Adams
+add|24|AI Journal|GAN Applications|Xander Lopez
+add|25|Physics Today|Relativity|Yara Bell
+add|26|Economics Quarterly|Economic Forecasts|Zane Hall
+add|27|Medical Innovations|Stem Cell Research|Alex Green
+add|28|Journal of Biology|Marine Biology|Bella Carter
+add|29|BioMed|Cancer Studies|Cody Wright
+add|30|Math Annals|Combinatorics|Dana Mitchell
+add|31|Physics Today|Fluid Dynamics|Ethan King
+add|32|CS Advances|Data Compression|Fiona Baker
+add|33|Medical Innovations|Genetic Engineering|Gina Torres
+add|34|Journal of Biology|Botany Insights|Hank Lopez
+add|35|Math Annals|Linear Algebra|Isla Grant
+add|36|AI Journal|AI Ethics|Jake Adams
+add|37|Physics Today|Plasma Physics|Kara Steele
+add|38|AstroPhysics Letters|Black Hole Physics|Liam Rogers
+add|39|Journal of Biology|Cell Biology|Mona Carter
+add|40|Medical Innovations|Drug Development|Noah Simmons
+add|41|CS Review|Big Data|Olive James
+add|42|CS Advances|Cybersecurity|Piper Nelson
+add|43|BioMed|Virology|Quinn Harper
+add|44|Journal of Chemistry|Chemical Reactions|Reed Cook
+add|45|AstroPhysics Letters|Star Formation|Sofia Taylor
+add|46|Physics Today|Cosmology|Theo Foster
+add|47|Medical Innovations|Clinical Trials|Una Moore
+add|48|Journal of Biology|Ecology Studies|Victor Grant
+add|49|Math Annals|Matrix Theory|Willa James
+add|50|Economics Quarterly|Global Trade|Xavier Ward
