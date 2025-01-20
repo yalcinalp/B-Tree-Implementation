@@ -64,7 +64,7 @@ These classes manage the parsing of input and the structure of the B+ trees:
 - `ScholarTree.java`
 
 ### Implementation Files
-The implementation should focus on the following files:
+The implementation is on the following files:
 - `ScholarTree.java`
 - `ScholarNodePrimaryIndex.java`
 - `ScholarNodeSecondaryIndex.java`
