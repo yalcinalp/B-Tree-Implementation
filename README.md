@@ -17,19 +17,23 @@ The project includes the implementation of the following functionalities on the 
    - Adds a new paper to both the primary and secondary B+ trees.
    - The `paperId` field is used for the primary tree, while the `journal` field serves as the index for the secondary tree.
 
-![image](https://github.com/user-attachments/assets/d06bc2ea-21cb-42d9-89c1-d586b4d4eea5)
+![image](https://github.com/user-attachments/assets/3bd20180-1ca4-4f9c-9594-dd17bfdde27a)
 
-![image](https://github.com/user-attachments/assets/c19843a9-c039-43fa-bbbe-93d54e6bcd34)
+
+![image](https://github.com/user-attachments/assets/372bbdbe-27b7-440a-bf8f-796818b925ec)
+
 
 2. **Search Paper**:
    - Searches for an academic paper in the primary B+ tree using a given `paperId`.
 
-![image](https://github.com/user-attachments/assets/5bc2f92c-c19f-4139-a2a9-9629bd891a13)
+![image](https://github.com/user-attachments/assets/232c9fcd-3174-4aa7-bf85-91d55fac78a7)
+
 
 3. **Search Journal**:
    - Searches for a journal in the secondary B+ tree using a given journal name.
 
-![image](https://github.com/user-attachments/assets/380fe609-ae92-4352-98c6-1d719675d491)
+![image](https://github.com/user-attachments/assets/5231f025-24d8-43e1-af9d-3611a10204b2)
+
 
 4. **Print Primary Tree**:
    - Prints the structure of the primary B+ tree in depth-first order.
